@@ -7,7 +7,7 @@ The purpose of this challenge was to used SQL to analyze multiple data sets to a
 ## Employees Retiring
 - There are 90,398 employees that are identified as retiring soon. 
 - Of these employees 64% of them hold a senior title. 
-
+- Engineers account for 50% of the employees that will be retiring soon.
 ![retiring](Data/retiring_titles.png)
 
 ## Mentorship Program
@@ -19,5 +19,9 @@ The purpose of this challenge was to used SQL to analyze multiple data sets to a
 ## How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 In total, there are 90,398 roles that will need to be filled as the "silver tsunami" begings to make an impact. 
 
+![retiring](Data/retiring_titles.png)
+
 ## Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 In total, there are 1,549 employees that are qualified, retirement-ready employees in the departments to mentor the next generation. Knowing that the company has several thousands of employees we can assume that this is not enough people to mentor all of the next generation of Pewlett Hackard employees. 
+
+![mentorship](Data/mentorship_eligibilty.png)
