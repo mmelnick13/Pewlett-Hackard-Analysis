@@ -6,6 +6,9 @@ The purpose of this challenge was to used SQL to analyze multiple data sets to a
 # Results
 * There are 90,398 employees that are identified as retiring soon. 
 * Of these employees 64% of them hold a senior title. 
+![retiring_image](Data/retiring_titles.PNG)
+
+![mentorship_image](Data/mentorship_eligibilty.PNG)
 # Summary
 ## How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 In total, there are 90,398 roles that will need to be filled as the "silver tsunami" begings to make an impact. 
